@@ -2,7 +2,6 @@ import Description from "./Description";
 import Options from "./Options";
 import Feedback from "./feedback";
 
-// import s from "../styles/App.module.css";
 import { useState, useEffect } from "react";
 
 const App = () => {
